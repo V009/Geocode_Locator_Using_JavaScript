@@ -1,0 +1,1 @@
+This application get geocode(Address) as a string, If the given geocode is valid then the location get pin dropped in the map.
